@@ -1,0 +1,6 @@
+ID,Description,Unit Price,Quantity in Stock,Total Price
+1,Blue T-Shirt,19.99,50,999.50
+2,Black Jeans,49.99,30,1499.70
+3,White Sneakers,39.99,25,999.75
+4,Red Hoodie,29.99,40,1199.60
+5,Green Shorts,14.99,20,299.80

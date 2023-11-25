@@ -1,0 +1,6 @@
+date,id,description,qtySold,amount,stockRemaining,transactionType
+2023-04-01,1,Blue T-Shirt,10,199.90,40,Added
+2023-04-02,2,Black Jeans,5,249.95,25,Updated
+2023-04-03,3,White Sneakers,2,79.98,23,Removed
+2023-04-04,4,Red Hoodie,15,449.85,25,Added
+2023-04-05,5,Green Shorts,8,119.92,12,Updated
